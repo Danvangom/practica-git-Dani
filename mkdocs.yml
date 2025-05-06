@@ -1,0 +1,8 @@
+site_name: sitio de Dani
+theme:
+  name: 'material'
+nav:
+  - Inicio: index.md
+extra:
+  author: Dani
+  description: Esta es la practica de git de Dani
